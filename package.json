@@ -1,0 +1,12 @@
+{
+  "name": "bc_desafio08_joaquin-enriquez-marin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch scr/styles.sass:public/styles.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
